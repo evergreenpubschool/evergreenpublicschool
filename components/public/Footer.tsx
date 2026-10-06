@@ -96,11 +96,27 @@ export default function Footer() {
         </div>
       </div>
 
-      {/* Copyright */}
+      {/* Copyright & Developer Credit */}
       <div className="border-t border-[#DDE7E1] bg-white/60">
-        <div className="mx-auto max-w-7xl px-4 py-5 text-center text-xs text-[#68736C] sm:px-6 lg:px-8">
-          © {new Date().getFullYear()} Evergreen Public Sr. Secondary School.
-          All rights reserved.
+        <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-4 py-5 text-xs text-[#68736C] sm:flex-row sm:px-6 lg:px-8">
+
+          <p>
+            © {new Date().getFullYear()} Evergreen Public Sr. Secondary School.
+            All rights reserved.
+          </p>
+
+          <p>
+            Website Created by{" "}
+            <a
+              href="mailto:harshaggarwalweb2@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium text-[#315D3E] transition-colors hover:text-[#26352B] hover:underline"
+            >
+              Harsh Aggarwal
+            </a>
+          </p>
+
         </div>
       </div>
     </footer>
