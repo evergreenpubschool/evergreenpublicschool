@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
 
   title: {
-    default: "Evergreen Public Sr. Sec. School",
+    default: "Evergreen Public Sr. Sec. School | Kaithal",
     template: "%s | Evergreen Public Sr. Sec. School",
   },
 
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
 
   openGraph: {
-    title: "Evergreen Public Sr. Sec. School",
+    title: "Evergreen Public Sr. Sec. School | Kaithal",
     description:
       "Evergreen Public Sr. Sec. School provides quality education from Pre-Nursery to Class 12, with a strong academic foundation and a supportive learning environment.",
     type: "website",
