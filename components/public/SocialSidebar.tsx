@@ -4,7 +4,7 @@ import { socialLinks } from "@/lib/socials";
 
 export default function SocialSidebar() {
   return (
-    <div className="fixed right-3 top-1/2 z-30 hidden -translate-y-1/2 flex-col gap-2 sm:flex">
+    <div className="fixed right-3 top-1/2 z-30 -translate-y-1/2 flex-col gap-2 sm:flex">
       {socialLinks.map((social) => {
         const Icon = social.icon;
 
