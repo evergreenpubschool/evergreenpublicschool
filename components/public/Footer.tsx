@@ -87,7 +87,7 @@ export default function Footer() {
           <div className="mt-3 h-1 w-8 rounded-full bg-[#BFDCF1]" />
 
           <p className="mt-5 text-sm leading-7 text-[#68736C]">
-            {SCHOOL_LOCATION}
+            Jind Road, Behind I.T.I., In Front of Power House Substation, Patel Nagar Kaithal
           </p>
 
           <div className="mt-5 overflow-hidden rounded-2xl border border-[#DDE7E1] bg-white shadow-sm">

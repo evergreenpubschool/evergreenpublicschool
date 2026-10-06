@@ -1,2 +1,2 @@
 export const SCHOOL_LOCATION =
-  "Jind Road, Behind I.T.I., In Front of Power House Substation, Patel Nagar Kaithal";
+  "Ever Green Public Sr. Sec. School QCP4+X5X, Ashok Garden Colony, Kaithal, Haryana 136027";
