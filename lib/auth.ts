@@ -18,7 +18,6 @@ export const auth = betterAuth({
 
   trustedOrigins: [
     "https://evergreenpublicschoolkaithal.com",
-    "http://localhost:3000",
   ],
 
   plugins: [
